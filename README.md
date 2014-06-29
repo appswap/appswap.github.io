@@ -2,4 +2,4 @@
 
 The Android drawer which allow you to easily launch your applications
 
-appswap.github.io
+http://appswap.github.io
